@@ -1549,6 +1549,7 @@ Assortment of conference and training videos.
 * Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - Introduction to building a React Native app and learning the foundational pieces.
 * Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
+* [React Native open-source eCommerce App | Development tutorials](https://youtube.com/playlist?list=PL97fL9DAn9QyNAWAh-X-mFJdXKm96AqVM) - Step-by-step how to create your React Native ecommerce app with Magento 2 GraphQL API. 
 
 ## Blogs
 
